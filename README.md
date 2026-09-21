@@ -92,9 +92,9 @@ const Braga = {
 
 ---
 
-# ⚡ T E C H ・ S E C U R I T Y ・ S T A C K
-
 <div align="center">
+
+# ⚡ T E C H ・ S E C U R I T Y ・ S T A C K
 
 ### 🛡️ Cybersecurity
 
@@ -127,7 +127,6 @@ const Braga = {
 </a>
 
 </div>
-
 ---
 
 # 🚀 C U R R E N T ・ S E C U R I T Y ・ M I S S I O N
