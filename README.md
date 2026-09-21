@@ -92,45 +92,39 @@ const Braga = {
 
 ---
 
-<div align="center">
-
-<div align="center">
-
 # 🛡️ T E C H ・ S E C U R I T Y ・ S T A C K
-
----
 
 ### 🐧 Operating Systems
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
-</a>
+<p>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00A4EF"/>
+</p>
 
 ### 💻 Programming
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
-</a>
+<p>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
 ### 🌐 Networking & Web
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cisco,nginx,cloudflare&theme=dark" />
-</a>
+<p>
+<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/HTTP%20%2F%20HTTPS-0D1117?style=for-the-badge&logo=internetexplorer&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF9C"/>
+</p>
 
 ### 🔐 Security Interests
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" />
-</a>
+<p>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Pentesting-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/CTF-0D1117?style=for-the-badge&logo=tryhackme&logoColor=E31B23"/>
+</p>
 
-### 🛠️ Development & Security Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
-</a>
-
-</div>
 ---
 
 # 🚀 C U R R E N T ・ S E C U R I T Y ・ M I S S I O N
