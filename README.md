@@ -94,36 +94,40 @@ const Braga = {
 
 <div align="center">
 
-# ⚡ T E C H ・ S E C U R I T Y ・ S T A C K
+<div align="center">
 
-### 🛡️ Cybersecurity
+# 🛡️ T E C H ・ S E C U R I T Y ・ S T A C K
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,python&theme=dark" />
-</a>
+---
 
-### 🌐 Networking & Web Security
+### 🐧 Operating Systems
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,html,css,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
 </a>
 
 ### 💻 Programming
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
 </a>
 
-### 🔧 Security & Development Tools
+### 🌐 Networking & Web
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cisco,nginx,cloudflare&theme=dark" />
+</a>
+
+### 🔐 Security Interests
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" />
+</a>
+
+### 🛠️ Development & Security Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
-</a>
-
-### 🐧 Environments & Infrastructure
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,docker,aws&theme=dark" />
 </a>
 
 </div>
