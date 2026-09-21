@@ -92,38 +92,41 @@ const Braga = {
 
 ---
 
-# 🛡️ T E C H ・ S E C U R I T Y ・ S T A C K
+# ⚡ T E C H ・ S E C U R I T Y ・ S T A C K
 
-### 🐧 Operating Systems
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00A4EF"/>
-</p>
+### 🛡️ Cybersecurity
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,python&theme=dark" />
+</a>
+
+### 🌐 Networking & Web Security
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,html,css,regex&theme=dark" />
+</a>
 
 ### 💻 Programming
 
-<p>
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
+</a>
 
-### 🌐 Networking & Web
+### 🔧 Security & Development Tools
 
-<p>
-<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/HTTP%20%2F%20HTTPS-0D1117?style=for-the-badge&logo=internetexplorer&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF9C"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
+</a>
 
-### 🔐 Security Interests
+### 🐧 Environments & Infrastructure
 
-<p>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Pentesting-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/CTF-0D1117?style=for-the-badge&logo=tryhackme&logoColor=E31B23"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,docker,aws&theme=dark" />
+</a>
+
+</div>
 
 ---
 
